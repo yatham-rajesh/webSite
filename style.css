@@ -1,0 +1,40 @@
+li{
+    list-style: none;
+}
+li{
+    display: flex;
+    margin-left: 1rem;
+    
+}
+.sample>img{
+    height: 666px;
+    width: 1400px;
+    margin: 40px;
+}
+.skills{
+    display: flex;
+    justify-content: space-around;
+}
+.footer{
+    background-color: black;
+    height: 80px;
+    color:white;
+   
+
+}
+.footer>p{
+    padding: 30px;
+
+  text-align:center;
+}
+.skills div {
+    text-align: center;
+}
+.navbar{
+    display: flex;
+    justify-content:space-between;
+}
+ul{
+    display: flex;
+    justify-content:space-evenly;
+}
